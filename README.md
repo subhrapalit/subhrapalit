@@ -14,13 +14,13 @@
 - 🌱 I’m also enthusiastic about **Machine Learning, Natural Language Processing, Data Analysis**
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking for an opportunity to work as **Intern/Apprentice** or **Junior Web Developer**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 💌 How to reach me **subhrapalit16@gmail.com** 
 
-- ⚡ Fun fact **I love swimming🏊🏻‍♀️, watching football, movies💖**
+- ⚡ Fun fact **I love swimming, watching football, movies💖**
 
 ## 🚀 Languages and Tools:
 
@@ -88,4 +88,4 @@
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
-## Thanks🙏✌
+## Thanks & Stay Safe 🙏✌💖
