@@ -1,7 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Greetings<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhra Palit</h1>
-<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
+<h1 align="center"<img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="30px">, I'm Subhra Palit</h1>
+<!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif -->
+
 
 
 ## 🙋‍♂️ About Me
@@ -75,9 +76,9 @@
 <p align="left">
 
 
-<a href = "https://github.com/subhrapalit"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
-<a href = "https://twitter.com/PalitSubhro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/subhra-palit/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>    
+<!--<a href = "https://github.com/subhrapalit"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>-->
+<a href = "https://twitter.com/PalitSubhro"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"/></a>
+<a href = "https://www.linkedin.com/in/subhra-palit/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>    
 </p>
 <!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
