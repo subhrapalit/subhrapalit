@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhra Palit</h1>
+<h1 align="center">🙋‍♂️<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhra Palit</h1>
 <!-- <h3 align="center">I'm a passionate Full Stack Developer from India.</h3> -->
 
 
@@ -8,19 +8,21 @@
 
 - 🎓 I am Subhra Palit, a graduate of **Computer Science & Engineering** from Port City International University  
 
-- 🔭 I’m currently working on **Various web development projects**
+- 🔭 I’m enthusiastic about **Machine Learning, Natural Language Processing, Data Analysis**
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m also enthusiastic about **Machine Learning, Natural Language Processing, Data Analysis**
+- 🎯 Currently I'm working on a research project regarding the deployment of Machine Learning models to analyze student's sentiments regarding online class 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
 
-- 👯 I’m looking for an opportunity to work as **Intern/Apprentice** or **Junior Web Developer**
+- 📌 I’m looking for an opportunity to pursue a **Ph.D. in Computer Science**, where I can hone my research skills
+
+- 💻  I also have done some Web Development projects using MERN Stack Technology 
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 💌 Reach me through **subhrapalit16@gmail.com** 
 
-- ⚡ Fun fact **I love swimming, watching football, movies💖**
+- ⚡ Hobbies: **I love football, swimming & cooking** in my leisure time
 
 ## 🚀 Languages and Tools:
 
