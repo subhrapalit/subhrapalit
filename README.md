@@ -23,7 +23,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 💌 Reach me through **subhrapalit16@gmail.com** 
+- 💌 Reach me through **subhrapalit_cse13@portcity.edu.bd** 
 
 - ⚡ Hobbies: **I love football, swimming & cooking** in my leisure time
 
